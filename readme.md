@@ -6,7 +6,10 @@ This repository contains a collection of data analytics projects, showcasing var
 ## Projects
 
 1. Blinkit Sales Dashboard
-   - A comprehensive Excel-based analytics dashboard analyzing Blinkit's (India's last-minute delivery app) sales data. Features interactive filtering, multiple analysis views, and professional visualizations using custom styling. The dashboard provides insights into sales trends, product performance, and outlet analysis across different locations and store types.
+   - A comprehensive Excel-based analytics dashboard analyzing Blinkit's (India's last-minute delivery app) sales data.
+     
+2. Global CO2 Emissions Dashboard
+   - An interactive Tableau dashboard analyzing global fossil fuel emission data from 1750 to 2021.
 
 ## Repository Structure
 ```
@@ -15,14 +18,19 @@ data_analytics/
 ├── blinkit_project/
 │   └── (project files)
 │
+├── global_co2_emissions/
+│   └── (project files)
+│
 └── README.md
 ```
 
 ## Technologies Used
 - Microsoft Excel
 - Advanced Excel Functions
+- Tableau Desktop Public Edition
 - Custom Fonts (Montserrat)
 - Data Visualization Techniques
+- Custom Color Palettes
 
 ## Getting Started
 To explore these projects locally:
@@ -41,7 +49,7 @@ To explore these projects locally:
 This repository will be updated with new data analytics projects, including:
 - Python-based data analysis
 - SQL projects
-- Tableau/Power BI dashboards
+- Additional Tableau/Power BI dashboards
 - Machine Learning implementations
 - Statistical analysis projects
 
