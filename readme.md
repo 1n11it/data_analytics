@@ -10,6 +10,9 @@ This repository contains a collection of data analytics projects, showcasing var
      
 2. Global CO2 Emissions Dashboard
    - An interactive Tableau dashboard analyzing global fossil fuel emission data from 1750 to 2021.
+     
+3. Used Bike Price Prediction
+   - A machine learning-based project predicting used bike prices in the Indian market.
 
 ## Repository Structure
 ```
@@ -21,16 +24,20 @@ data_analytics/
 ├── global_co2_emissions/
 │   └── (project files)
 │
+├── used_bike_price_prediction/
+│   └── (project files)
+│
 └── README.md
 ```
 
 ## Technologies Used
-- Microsoft Excel
-- Advanced Excel Functions
-- Tableau Desktop Public Edition
-- Custom Fonts (Montserrat)
-- Data Visualization Techniques
+- Python
+- Machine Learning (Basics)
+- Microsoft Excel (Excel Functions)
+- Data Visualization Techniques 
+- Tableau Desktop (Public Edition)
 - Custom Color Palettes
+- Custom Fonts (Montserrat)
 
 ## Getting Started
 To explore these projects locally:
@@ -47,11 +54,9 @@ To explore these projects locally:
 
 ## Future Projects
 This repository will be updated with new data analytics projects, including:
-- Python-based data analysis
 - SQL projects
 - Additional Tableau/Power BI dashboards
 - Machine Learning implementations
-- Statistical analysis projects
 
 ## Contributing
 These are personal projects focused on learning and skill development. Feedback and suggestions are welcome through issues or pull requests.
