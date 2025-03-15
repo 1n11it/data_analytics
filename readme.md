@@ -10,8 +10,11 @@ This repository contains a collection of data analytics projects, showcasing var
      
 2. Global CO2 Emissions Dashboard
    - An interactive Tableau dashboard analyzing global fossil fuel emission data from 1750 to 2021.
-     
-3. Used Bike Price Prediction
+
+3. Tata Group Business & Analytics Insights
+   - A Power BI project analyzing Ratan Tata's legacy, Tata Group stock performance, and company insights.
+   
+5. Used Bike Price Prediction
    - A machine learning-based project predicting used bike prices in the Indian market.
 
 ## Repository Structure
@@ -22,6 +25,9 @@ data_analytics/
 │   └── (project files)
 │
 ├── global_co2_emissions/
+│   └── (project files)
+│
+├── tata/
 │   └── (project files)
 │
 ├── used_bike_price_prediction/
@@ -36,6 +42,7 @@ data_analytics/
 - Microsoft Excel (Excel Functions)
 - Data Visualization Techniques 
 - Tableau Desktop (Public Edition)
+- Power BI (Advanced Dashboards)
 - Custom Color Palettes
 - Custom Fonts (Montserrat)
 
